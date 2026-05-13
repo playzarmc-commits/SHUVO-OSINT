@@ -19,7 +19,7 @@ from telegram.ext import (
 )
 from telegram.constants import ParseMode, ChatAction
 
-TOKEN            = "8928689890:AAHAQYcqITw6A6LzNUq1jvx4R4-eFRYc9ys"
+TOKEN            = "8604585693:AAEOcIirys3e7jxg-C9n8kj6E5taBCmazhs"
 ADMIN_ID         = os.getenv("ADMIN_ID", "8600328303")
 REQUIRED_GROUP   = os.getenv("REQUIRED_GROUP", "@SHUVOMODS")
 NASA_API_KEY     = os.getenv("NASA_API_KEY", "DEMO_KEY")
